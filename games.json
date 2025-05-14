@@ -1,0 +1,23 @@
+[
+  {
+    "Picture": "https://raw.githubusercontent.com/Ltch/games/main/img/cyberpunk.jpg",
+    "Name": "Cyberpunk 2077",
+    "Magnet-link": "magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "Description": "Крутая игра про киберпанк в открытом мире.",
+    "Size": "100 GB"
+  },
+  {
+    "Picture": "https://raw.githubusercontent.com/Ltch/games/main/img/witcher3.jpg",
+    "Name": "The Witcher 3: Wild Hunt",
+    "Magnet-link": "magnet:?xt=urn:btih:yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "Description": "Приключенческая RPG в фэнтезийном мире.",
+    "Size": "50 GB"
+  },
+  {
+    "Picture": "https://raw.githubusercontent.com/Ltch/games/main/img/gta5.jpg",
+    "Name": "Grand Theft Auto V",
+    "Magnet-link": "magnet:?xt=urn:btih:zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "Description": "Криминальный экшен в открытом мире.",
+    "Size": "70 GB"
+  }
+]
