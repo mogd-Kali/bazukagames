@@ -34,5 +34,14 @@
     "Photo1": "https://i.postimg.cc/nhTYdbDz/IMG-20250515-151923-490.jpg",
     "Photo2": "https://i.postimg.cc/RhcwKjmv/IMG-20250515-151916-483.jpg",
     "Link": "https://archive.org/download/garrys-mod_202505/GarrysMod.zip"
+  },
+    {
+    "Name": "R.E.P.O",
+    "Description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "Icon": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg",
+    "Author": "semiwork",
+    "Photo1": "https://i.postimg.cc/nhTYdbDz/IMG-20250515-151923-490.jpg",
+    "Photo2": "https://i.postimg.cc/RhcwKjmv/IMG-20250515-151916-483.jpg",
+    "Link": "https://archive.org/download/repo_20250531/REPO.zip"
   }
 ]
